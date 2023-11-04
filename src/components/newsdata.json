@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+        "totalResults": 6635,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "CNBC"
+                    },
+                    "author": "Reuters",
+                    "title": "Mercedes-Benz Q3 earnings take a hit on subdued sales, supply chain snags",
+                    "description": "Mercedes-Benz said it expects the adjusted return on sales of its cars division for the full year to hit the lower end of its 12-14% forecast.",
+                    "url": "https://www.cnbc.com/2023/10/26/mercedes-benz-q3-earnings-take-a-hit-on-subdued-sales-supply-chain-snags.html",
+                    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107323391-1698300995370-gettyimages-1643053156-GERMANY_IAA.jpeg?v=1698301085&w=1920&h=1080",
+                    "publishedAt": "2023-10-26T06:18:00Z",
+                    "content": "Mercedes-Benz expects the adjusted return on sales of its cars division for the full year to hit the lower end of its 12-14% forecast, the company said on Thursday, as it reported a drop in third-qua… [+1672 chars]"
+                },
+                {
+                    "source": {
+                    "id": null,
+                    "name": "Thekitchn.com"
+                    },
+                    "author": "Mackenzie Filson",
+                    "title": "I Tried 17 Boxed Wines — These Are the 7 Worth Drinking",
+                    "description": "According to a former bartender and wine buyer.\nREAD MORE...",
+                    "url": "https://www.thekitchn.com/best-boxed-wines-23590531",
+                    "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FEdit%2F2023-10-best-boxed-wine%2Fboxedwines",
+                    "publishedAt": "2023-10-26T14:30:00Z",
+                    "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nI knew itd happen one of these days, and by gol… [+7940 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (William Gallagher)",
+                    "title": "No Apple Watch Ultra 3 in development, says Kuo",
+                    "description": "Analyst Ming-Chi Kuo claims that Apple has not begun developing a third generation of the Apple Watch Ultra, and so it's unlikely it will release one in 2024.Apple Watch Ultra 2Apple made no visible changes to the Apple Watch Ultra when it unveiled a second-e…",
+                    "url": "https://appleinsider.com/articles/23/10/26/no-apple-watch-ultra-3-in-development-says-kuo",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/56135-114274-apple_event_-_september_12_32-3_screenshot-xl.jpg",
+                    "publishedAt": "2023-10-26T13:41:44Z",
+                    "content": "Apple Watch Ultra 2\r\nAnalyst Ming-Chi Kuo claims that Apple has not begun developing a third generation of the Apple Watch Ultra, and so it's unlikely it will release one in 2024.\r\nApple made no visi… [+1971 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Amber Neely)",
+                    "title": "Apple store in California hit with $100,000 grand theft, suspects still at large",
+                    "description": "Five suspects stole around $100,000 worth of Apple products from Apple Store Burlingame in a brazen late-October robbery.Apple Store Burlingame | Image credit: AppleThe theft occurred on the morning of Tuesday, October 24. Five individuals entered the Bay Are…",
+                    "url": "https://appleinsider.com/articles/23/10/26/apple-store-in-california-hit-with-100000-grand-theft-suspects-still-at-large",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/56984-115886-apple-store-header-xl.jpg",
+                    "publishedAt": "2023-10-26T13:46:03Z",
+                    "content": "Apple Store Burlingame | Image credit: Apple\r\nFive suspects stole around $100,000 worth of Apple products from Apple Store Burlingame in a brazen late-October robbery.\r\nThe theft occurred on the morn… [+610 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Peter Cohen)",
+                    "title": "Apple Store union workers claim foul over labor audit",
+                    "description": "Workers at unionized Apple Stores are raising questions about an independent audit of the company's U.S. labor practices, suggesting it excluded them.Towson Apple StoreIn January, Apple agreed to a labor practices audit requested by several prominent investor…",
+                    "url": "https://appleinsider.com/articles/23/10/26/apple-store-union-workers-claim-foul-over-labor-audit",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/53875-108385-towson-apple-store-xl.jpg",
+                    "publishedAt": "2023-10-26T17:53:10Z",
+                    "content": "Towson Apple Store\r\nWorkers at unionized Apple Stores are raising questions about an independent audit of the company's U.S. labor practices, suggesting it excluded them.\r\nIn January, Apple agreed to… [+2918 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Malcolm Owen)",
+                    "title": "First tvOS 17.2 beta issued to developers",
+                    "description": "Apple has shared its first developer beta of tvOS 17.2 for testing, signifying the start of a whole new beta cycle.Developers who are involved with the beta can get the latest builds via the Apple Developer Center, or by updating any Apple TV set-top boxes th…",
+                    "url": "https://appleinsider.com/articles/23/10/26/first-tvos-172-beta-issued-to-developers",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/53451-107358-51384-101610-000-lead-Apple-TV-4K-xl-xl.jpg",
+                    "publishedAt": "2023-10-26T17:18:39Z",
+                    "content": "Apple has shared its first developer beta of tvOS 17.2 for testing, signifying the start of a whole new beta cycle. \r\nDevelopers who are involved with the beta can get the latest builds via the Apple… [+1233 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Malcolm Owen)",
+                    "title": "First iOS 17.2, iPadOS 17.2 developer betas now out for testing",
+                    "description": "Apple has restarted the beta-testing process once again, providing developers with the first beta of iOS 17.2 and iPadOS 17.2 to try out.iOS 17Developers taking part in the beta-testing program can get the latest builds by visiting the Apple Developer Center …",
+                    "url": "https://appleinsider.com/articles/23/10/26/first-ios-172-ipados-172-developer-betas-now-out-for-testing",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/56302-114322-55901-113522-iOS-17-Beta-6-xl-xl.jpg",
+                    "publishedAt": "2023-10-26T17:28:40Z",
+                    "content": "iOS 17\r\nApple has restarted the beta-testing process once again, providing developers with the first beta of iOS 17.2 and iPadOS 17.2 to try out. \r\nDevelopers taking part in the beta-testing program … [+1165 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Malcolm Owen)",
+                    "title": "First watchOS 10.2 developer beta build is out now",
+                    "description": "Apple has handed out the first beta build of watchOS 10.2 to developer beta participants.Developers can download the new watchOS betaDevelopers taking part in the beta program can acquire the latest versions via the Apple Developer Center or by updating their…",
+                    "url": "https://appleinsider.com/articles/23/10/26/first-watchos-102-developer-beta-build-is-out-now",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/54985-111565-367-hero-xl.jpg",
+                    "publishedAt": "2023-10-26T17:17:13Z",
+                    "content": "Developers can download the new watchOS beta\r\nApple has handed out the first beta build of watchOS 10.2 to developer beta participants. \r\nDevelopers taking part in the beta program can acquire the la… [+1130 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Peter Cohen)",
+                    "title": "Apple acknowledges iPhone 15 charging problem with BMWs, Toyota Supras",
+                    "description": "Apple has acknowledged a problem that can temporarily deactivate the Near-Field Communications (NFC) capabilities of iPhone 15 series devices when used with the wireless charging systems in some BMW and Toyota Supra models.Some BMWs cause iPhone 15 charging p…",
+                    "url": "https://appleinsider.com/articles/23/10/26/apple-acknowledges-iphone-15-charging-problem-with-bmws-toyota-supras",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/48300-94301-carplay-bmw-xl.jpg",
+                    "publishedAt": "2023-10-26T14:25:05Z",
+                    "content": "Some BMWs cause iPhone 15 charging problems\r\nApple has acknowledged a problem that can temporarily deactivate the Near-Field Communications (NFC) capabilities of iPhone 15 series devices when used wi… [+1288 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (William Gallagher)",
+                    "title": "Apple is considering two lower-cost MacBook models for education",
+                    "description": "As rumors of a low-cost MacBook continue to circulate, one leaker claims that Apple is actually contemplating releasing two new models.Currently Apple's lowest-cost laptops are the MacBook Air modelsAs long as MacBooks are more expensive than PC laptops, and …",
+                    "url": "https://appleinsider.com/articles/23/10/26/apple-is-considering-two-lower-cost-macbook-models-for-education",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/56159-113999-000-lead-MacBook-Air-xl.jpg",
+                    "publishedAt": "2023-10-26T12:34:09Z",
+                    "content": "Currently Apple's lowest-cost laptops are the MacBook Air models\r\nAs rumors of a low-cost MacBook continue to circulate, one leaker claims that Apple is actually contemplating releasing two new model… [+1259 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Malcolm Owen)",
+                    "title": "First macOS Sonoma 14.2 developer beta issued to testers",
+                    "description": "The first macOS Sonoma 14.2 developer beta is now available to download.macOS SonomaDevelopers participating in the test program can access the latest build by visiting the Apple Developer Center or updating Macs running the beta to the newest edition. Public…",
+                    "url": "https://appleinsider.com/articles/23/10/26/first-macos-sonoma-142-developer-beta-issued-to-testers",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/56557-114942-Sonoma-1-xl.jpg",
+                    "publishedAt": "2023-10-26T17:22:55Z",
+                    "content": "macOS Sonoma\r\nThe first macOS Sonoma 14.2 developer beta is now available to download. \r\nDevelopers participating in the test program can access the latest build by visiting the Apple Developer Cente… [+1143 chars]"
+                    },
+                    {
+                    "source": {
+                    "id": null,
+                    "name": "AppleInsider"
+                    },
+                    "author": "news@appleinsider.com (Wesley Hilliard)",
+                    "title": "Everything new in iOS 17.2 beta 1: Journal, iMessage sticker reactions, more",
+                    "description": "The beta cycle has restarted with iOS 17.2 and the rest, which includes the long-awaited Journal app on iPhone, iMessage sticker reactions, and the rumored Apple TV app redesign.iOS 17.2 beta 1Apple released iOS 17.1 and the other point updated operating syst…",
+                    "url": "https://appleinsider.com/articles/23/10/26/everything-new-in-ios-172-beta-1-journal-imessage-sticker-reactions-more",
+                    "urlToImage": "https://photos5.appleinsider.com/gallery/56992-115891-iOS-172-xl.jpg",
+                    "publishedAt": "2023-10-26T19:17:56Z",
+                    "content": "iOS 17.2 beta 1\r\nThe beta cycle has restarted with iOS 17.2 and the rest, which includes the long-awaited Journal app on iPhone, iMessage sticker reactions, and the rumored Apple TV app redesign.\r\nAp… [+2013 chars]"
+                    },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Biztoc.com"
+                    },
+                    "author": "aol.com",
+                    "title": "STMicro beats third quarter sales forecasts",
+                    "description": "European chipmaker STMicroelectronics beat expectations on Thursday for third quarter sales, helped by demand from the automotive sector. However, the company, whose clients include Tesla and Apple, said it expects a drop in sales in the fourth quarter. Third…",
+                    "url": "https://biztoc.com/x/11035281e61381f6",
+                    "urlToImage": "https://c.biztoc.com/p/11035281e61381f6/s.webp",
+                    "publishedAt": "2023-10-26T06:12:06Z",
+                    "content": "European chipmaker STMicroelectronics beat expectations on Thursday for third quarter sales, helped by demand from the automotive sector.However, the company, whose clients include Tesla and Apple, s… [+297 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Biztoc.com"
+                    },
+                    "author": "techcrunch.com",
+                    "title": "Xpeng starts removing HD maps from Tesla FSD-like feature in China",
+                    "description": "Xpeng is often called the Chinese challenger to Tesla for its efforts to bring advanced driving capabilities to its electric vehicles. It’s now getting a step closer to its American counterpart as it gets rid of high-definition mapping in its XNGP assisted dr…",
+                    "url": "https://biztoc.com/x/46155c65eadc85c4",
+                    "urlToImage": "https://c.biztoc.com/p/46155c65eadc85c4/s.webp",
+                    "publishedAt": "2023-10-26T06:02:06Z",
+                    "content": "Xpeng is often called the Chinese challenger to Tesla for its efforts to bring advanced driving capabilities to its electric vehicles. Its now getting a step closer to its American counterpart as it … [+249 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Biztoc.com"
+                    },
+                    "author": "finance.yahoo.com",
+                    "title": "Porsche joins Tesla in warning about high rates",
+                    "description": "German luxury brand Porsche (P911.DE) and EV stalwart Tesla (TSLA) make strange bedfellows, unless it comes to warning about high interest rates crimping demand. Following the release of its year-to-date Q3 financial results, Porsche warned that inflation and…",
+                    "url": "https://biztoc.com/x/408184748caa633d",
+                    "urlToImage": "https://c.biztoc.com/p/408184748caa633d/s.webp",
+                    "publishedAt": "2023-10-26T05:58:05Z",
+                    "content": "German luxury brand Porsche (P911.DE) and EV stalwart Tesla (TSLA) make strange bedfellows, unless it comes to warning about high interest rates crimping demand.Following the release of its year-to-d… [+277 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Carbon Brief"
+                    },
+                    "author": "kurzon",
+                    "title": "Factcheck: 21 misleading myths about electric vehicles - Carbon Brief",
+                    "description": "Carbon Brief factchecks 21 of the most common – and persistent – myths about electric vehicles.",
+                    "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/",
+                    "urlToImage": "https://www.carbonbrief.org/wp-content/uploads/2023/10/2R6XC79.jpg",
+                    "publishedAt": "2023-10-26T05:47:01Z",
+                    "content": "Electric vehicles (EVs) significantly cut lifecycle greenhouse gas emissions in almost all circumstances and are the key technology for decarbonising road transport.\r\nWhile not having a car has even … [+66838 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Barron's"
+                    },
+                    "author": "Al Root",
+                    "title": "The UAW Strike Is 40 Days Old, Matching 2019. Blame Tesla.",
+                    "description": "This is a strike of a different nature. A look at why, and how the industry got here, makes it clear that a quick resolution isn't likely.",
+                    "url": "https://www.barrons.com/articles/uaw-strike-40-days-old-matching-2019-82bf9881",
+                    "urlToImage": "https://images.barrons.com/im-53863005/social",
+                    "publishedAt": "2023-10-25T23:26:39Z",
+                    "content": "The 2023 United Auto Workers strike against the Detroit Three auto makers just turned 40 days old, equaling the most recent big walkout, in 2019. It isnt over yet, but The Wall Street Journal reporte… [+5411 chars]"
+                }
+            ]
+}
